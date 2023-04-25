@@ -1,0 +1,9 @@
+Quand esprit a ete fondee ?
+A-2000 B-2006 C-2003 C-2003
+Combien de departements a esprit?
+A-8 B-12 C-6 A-8
+Le bloc ou se trouve l administration est le bloc 
+A-Bloc_G B-Bloc_H C-Bloc_E C-Bloc_E
+quel est le nom du proprietere de esprit?
+A-mohamed_lakhdhar B-sami_lakhdhar C-taher_lakhdhar C-taher_lakhdhar
+
